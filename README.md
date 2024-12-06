@@ -1,4 +1,4 @@
-# A roadmap of robotics resources
+# A map of robotics resources with reason
 
 ### Get real robotic arm
 
