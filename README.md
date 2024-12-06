@@ -1,2 +1,2 @@
-# A map of awesome robotics resources
+# A map of robotics resources
 
