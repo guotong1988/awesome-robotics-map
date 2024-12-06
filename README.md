@@ -1,2 +1,2 @@
-# awesome-robotics-map
-A map of awesome robotics resources
+# A map of awesome robotics resources
+
