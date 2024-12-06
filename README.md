@@ -8,8 +8,8 @@ https://grabcad.com/ --> Find SolidWorks design pattern. (SolidWorks mechanical 
 
 https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/
 
-https://github.com/NVIDIA-ISAAC-ROS
-
+https://github.com/NVIDIA-ISAAC-ROS  
+https://github.com/NVIDIA-AI-IOT  
 https://github.com/isaac-sim
 
 ###  
