@@ -1,4 +1,4 @@
-## A map of robotics resources
+## A Map of Robotics Resources
 
 ### Get The Arm
 
