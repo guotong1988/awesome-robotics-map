@@ -1,12 +1,12 @@
 ## A map of robotics resources
 
-### Get real robotic arm
+### Get The Arm
 
 [SolidWorks drawing examples](https://grabcad.com/)
 
 [SolidWorks drawings transTo ROS system](https://github.com/ros/solidworks_urdf_exporter)
 
-### Get the chip 
+### Get The Chip 
 
 https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/
 
