@@ -2,7 +2,9 @@
 
 ### Get real robotic arm
 
-https://grabcad.com/ -> SolidWorks drawings. (SolidWorks drawings -> ROS system. https://github.com/ros/solidworks_urdf_exporter)
+[SolidWorks drawing examples|https://grabcad.com/]
+
+[SolidWorks drawings transTo ROS system|https://github.com/ros/solidworks_urdf_exporter]
 
 ### Get the chip 
 
