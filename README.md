@@ -17,3 +17,5 @@ https://github.com/NVIDIA-AI-IOT
 https://github.com/isaac-sim
 
 ### 3D Reconstruction
+
+**Monocular 3D Object Detection** is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
