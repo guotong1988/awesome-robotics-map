@@ -10,11 +10,17 @@
 
 ### Get The Chip 
 
-[NVIDIA Jetson for Next-Generation Robotics](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+**[SOFTWARE](https://developer.nvidia.com/isaac)**
 
-[NVIDIA ISAAC ROS](https://developer.nvidia.com/isaac/ros) is a collection of accelerated computing packages and AI models.
+NVIDIA Isaac ROS is a collection of accelerated computing packages and AI models.
 
-[NVIDIA ISAAC SIM](https://github.com/isaac-sim) is to design, simulate, test, and train AI-based robots.
+NVIDIA Isaac SIM is to design, simulate, test, and train AI-based robots.
+
+NVIDIA Isaac Perceptor helps you quickly build robust autonomous mobile robots.
+
+**[HRADWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
+
+
 
 ### 3D Reconstruction
 
