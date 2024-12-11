@@ -12,11 +12,9 @@
 
 [NVIDIA Jetson for Next-Generation Robotics](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
-### NVIDIA-ROS + MoveIt + Simulation
+[https://github.com/NVIDIA-ISAAC-ROS](https://developer.nvidia.com/isaac/ros) is a collection of accelerated computing packages and AI models.
 
-https://github.com/NVIDIA-ISAAC-ROS  
-https://github.com/NVIDIA-AI-IOT  
-https://github.com/isaac-sim
+[NVIDIA Isaac Sim](https://github.com/isaac-sim) is to design, simulate, test, and train AI-based robots.
 
 ### 3D Reconstruction
 
