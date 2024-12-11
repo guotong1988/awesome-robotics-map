@@ -4,7 +4,9 @@
 
 [SolidWorks drawing examples](https://grabcad.com/)
 
-[SolidWorks drawings transTo ROS system](https://github.com/ros/solidworks_urdf_exporter)
+[SolidWorks drawings transTo ROS-URDF](https://github.com/ros/solidworks_urdf_exporter)
+
+[ROS-RVIZ to visualise URDF](http://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Building-a-Visual-Robot-Model-with-URDF-from-Scratch.html)
 
 ### Get The Chip 
 
@@ -18,5 +20,5 @@ https://github.com/isaac-sim
 
 ### 3D Reconstruction
 
-**Monocular 3D Object Detection** is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
-https://github.com/open-mmlab/mmdetection3d
+[Monocular 3D Object Detection](https://github.com/open-mmlab/mmdetection3d) is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
+
