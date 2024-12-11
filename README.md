@@ -4,7 +4,7 @@
 
 [SolidWorks drawing examples](https://grabcad.com/)
 
-[SolidWorks drawings transTo ROS-URDF](https://github.com/ros/solidworks_urdf_exporter)
+[SolidWorks drawings transTo ROS URDF](https://github.com/ros/solidworks_urdf_exporter)
 
 [ROS-RVIZ to visualise URDF](http://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Building-a-Visual-Robot-Model-with-URDF-from-Scratch.html)
 
