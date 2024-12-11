@@ -12,11 +12,11 @@
 
 **[SOFTWARE](https://developer.nvidia.com/isaac)**
 
-NVIDIA Isaac ROS -->  base system.
+NVIDIA Isaac ROS -->  base system
 
-NVIDIA Isaac SIM --> design, simulate, test.
+NVIDIA Isaac SIM --> design, simulate, test. --> NVIDIA Isaac Lab --> train policy
 
-NVIDIA Isaac Perceptor -->  autonomous mobile robots SLAM.
+NVIDIA Isaac Perceptor -->  autonomous mobile robots SLAM
 
 NVIDIA Isaac Manipulator --> cuMotion for motion planning --> FoundationPose, FoundationGrasp
 
