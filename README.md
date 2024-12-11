@@ -12,15 +12,13 @@
 
 **[SOFTWARE](https://developer.nvidia.com/isaac)**
 
-NVIDIA Isaac ROS is a collection of accelerated computing packages and AI models.
+NVIDIA Isaac ROS -->  base system.
 
-NVIDIA Isaac SIM is to design, simulate, test, and train AI-based robots.
+NVIDIA Isaac SIM --> design, simulate, test.
 
-NVIDIA Isaac Perceptor helps you quickly build robust autonomous mobile robots SLAM.
+NVIDIA Isaac Perceptor -->  autonomous mobile robots SLAM.
 
-NVIDIA Isaac Manipulator 
-|--> cuMotion for motion planning
-|--> FoundationPose, FoundationGrasp, SyntheticaDETR
+NVIDIA Isaac Manipulator --> cuMotion for motion planning --> FoundationPose, FoundationGrasp
 
 **[HRADWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
 
