@@ -12,13 +12,13 @@
 
 **[SOFTWARE](https://developer.nvidia.com/isaac)**
 
-NVIDIA `Isaac ROS` -->  base system
+`Isaac ROS` -->  base system
 
-NVIDIA `Isaac SIM` --> design, simulate, test --> NVIDIA `Isaac Lab` --> train policy
+`Isaac SIM` --> design, simulate, test --> `Isaac Lab` --> train policy
 
-NVIDIA `Isaac Perceptor` -->  autonomous mobile robots SLAM
+`Isaac Perceptor` -->  autonomous mobile robots SLAM
 
-NVIDIA `Isaac Manipulator` --> `cuMotion` for motion planning --> `FoundationPose`, `FoundationGrasp`
+`Isaac Manipulator` --> `cuMotion` for motion planning --> `FoundationPose`, `FoundationGrasp`
 
 **[HRADWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
 
