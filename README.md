@@ -14,13 +14,13 @@
 
 `Isaac ROS` -->  base system
 
-`Isaac SIM` --> design, simulate, test --> `Isaac Lab` --> train policy
+`Isaac SIM` --> design, simulate, test --> `Isaac LAB` --> train policy
 
 `Isaac Perceptor` -->  autonomous mobile robots SLAM
 
 `Isaac Manipulator` --> `cuMotion` for motion planning --> `FoundationPose`, `FoundationGrasp`
 
-**[HRADWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
+**[HARDWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
 
 
 
