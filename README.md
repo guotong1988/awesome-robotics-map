@@ -10,9 +10,9 @@
 
 ### Get The Chip 
 
-https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/
+[NVIDIA Jetson for Next-Generation Robotics](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
-### ROS + MoveIt + Simulation
+### NVIDIA-ROS + MoveIt + Simulation
 
 https://github.com/NVIDIA-ISAAC-ROS  
 https://github.com/NVIDIA-AI-IOT  
