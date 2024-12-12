@@ -1,6 +1,6 @@
 ## A Robotics Resources Map
 
-### Get The Arm
+### Mechanical Electronics Engineering
 
 [SolidWorks drawing examples](https://grabcad.com/)
 
@@ -15,6 +15,8 @@
 [Monocular 3D Object Detection](https://github.com/open-mmlab/mmdetection3d) is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
 
 ### Reference Solutions
+
+#### NVIDIA
 
 **[SOFTWARE](https://developer.nvidia.com/isaac)**
 
