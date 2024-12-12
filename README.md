@@ -18,7 +18,7 @@
 
 `Isaac Perceptor` -->  autonomous mobile robots SLAM
 
-`Isaac Manipulator` --> `cuMotion` for motion planning --> `FoundationPose`, `FoundationGrasp`
+`Isaac Manipulator` --> `cuMotion` for motion planning 
 
 **[HARDWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
 
