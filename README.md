@@ -1,6 +1,6 @@
 # A Robotics Resources Map
 
-## Mechanical Electronics Engineering
+## Mechanical Electronics
 
 [SolidWorks drawing examples](https://grabcad.com/)
 
