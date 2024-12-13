@@ -14,19 +14,16 @@
 
 [Monocular 3D Object Detection](https://github.com/open-mmlab/mmdetection3d) is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
 
+## HARDWARE
+
+Raspberry Pi
+
+[NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+
 ## Reference Solutions
 
-### NVIDIA
+[NVIDIA SOFTWARE](https://developer.nvidia.com/isaac)
 
-**[SOFTWARE](https://developer.nvidia.com/isaac)**
 
-`Isaac ROS` -->  base system
 
-`Isaac SIM` --> design, simulate, test --> `Isaac LAB` --> train policy
-
-`Isaac Perceptor` -->  autonomous mobile robots SLAM
-
-`Isaac Manipulator` --> `cuMotion` for motion planning 
-
-**[HARDWARE](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)**
 
