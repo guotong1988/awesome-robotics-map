@@ -16,7 +16,7 @@
 
 ## HARDWARE
 
-Raspberry Pi
+[Raspberry Pi](https://www.raspberrypi.com/products/)
 
 [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
