@@ -12,6 +12,8 @@
 
 https://github.com/moveit/moveit2
 
+(Is it necessary?)
+
 ## 3D Reconstruction
 
 [Monocular 3D Object Detection](https://github.com/open-mmlab/mmdetection3d) is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
