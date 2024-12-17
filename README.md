@@ -22,12 +22,10 @@ https://github.com/moveit/moveit2
 
 [Raspberry Pi](https://www.raspberrypi.com/products/)
 
-[NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
-
 ## Reference Solutions
 
-[NVIDIA SOFTWARE](https://developer.nvidia.com/isaac)
+[NVIDIA SOFTWARE](https://developer.nvidia.com/isaac),[NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
-
+[zhiyuan-robot](https://github.com/AgibotTech)
 
 
