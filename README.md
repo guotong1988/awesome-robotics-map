@@ -24,7 +24,7 @@ https://github.com/moveit/moveit2
 
 ## Reference Solutions
 
-[NVIDIA SOFTWARE](https://developer.nvidia.com/isaac)，[NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+[nvidia software](https://developer.nvidia.com/isaac)，[nvidia jetson hardware](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
 [zhiyuan-robot](https://github.com/AgibotTech)
 
