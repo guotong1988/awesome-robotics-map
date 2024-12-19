@@ -22,6 +22,8 @@ https://github.com/moveit/moveit2
 
 [Raspberry Pi](https://www.raspberrypi.com/products/)
 
+[Arduino Esp32](https://github.com/espressif/arduino-esp32)
+
 ## Reference Solutions
 
 [nvidia software](https://developer.nvidia.com/isaac)，[nvidia jetson hardware](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
