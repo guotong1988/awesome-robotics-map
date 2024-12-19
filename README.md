@@ -12,7 +12,7 @@
 
 https://github.com/moveit/moveit2
 
-(Is it necessary?)
+([Is it necessary?](https://www.researchgate.net/post/Is_it_necessary_to_use_visualization_tools_for_the_motion_trajectory_planning_of_a_robotic_arm))
 
 ## 3D Reconstruction
 
