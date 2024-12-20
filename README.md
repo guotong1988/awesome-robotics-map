@@ -14,7 +14,9 @@
 
 ## 3D Reconstruction
 
-[Monocular 3D Object Detection](https://github.com/open-mmlab/mmdetection3d) is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images.
+Monocular 3D Object Detection is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images. 
+
+[mmdetection3d code]([https://mmdetection3d.readthedocs.io/en/latest/](https://github.com/open-mmlab/mmdetection3d)) + [mmdetection3d doc](https://mmdetection3d.readthedocs.io/en/latest/)
 
 ## HARDWARE
 
