@@ -16,13 +16,13 @@
 
 Monocular 3D Object Detection is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images. 
 
-[mmdetection3d code](https://github.com/open-mmlab/mmdetection3d) + [mmdetection3d doc](https://mmdetection3d.readthedocs.io/en/latest/)
+mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
 
 ## HARDWARE
 
 [Raspberry Pi](https://www.raspberrypi.com/products/)
 
-[Arduino Esp32](https://github.com/espressif/arduino-esp32) + [doc](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
+Arduino Esp32 [code](https://github.com/espressif/arduino-esp32) + [doc](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
 
 ## Reference Solutions
 
