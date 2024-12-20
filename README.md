@@ -22,7 +22,7 @@ Monocular 3D Object Detection is the task to draw 3D bounding box around objects
 
 [Raspberry Pi](https://www.raspberrypi.com/products/)
 
-[Arduino Esp32](https://github.com/espressif/arduino-esp32)
+[Arduino Esp32](https://github.com/espressif/arduino-esp32) + [doc](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
 
 ## Reference Solutions
 
