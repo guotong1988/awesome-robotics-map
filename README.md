@@ -2,7 +2,7 @@
 
 ## Mechanical Part
 
-[SolidWorks drawing examples](https://grabcad.com/)
+SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solidworks.com/cadmodels)
 
 [SolidWorks drawing transTo ROS URDF](https://github.com/ros/solidworks_urdf_exporter)
 
