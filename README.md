@@ -1,6 +1,6 @@
 # A Robotics Resources Map
 
-## Mechanical Part
+## Mechanical by Drawing
 
 SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solidworks.com/cadmodels)
 
