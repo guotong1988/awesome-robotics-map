@@ -30,4 +30,6 @@ Arduino Esp32 [code](https://github.com/espressif/arduino-esp32) + [doc](https:/
 
 [zhiyuan-robot](https://github.com/AgibotTech)
 
+https://github.com/huggingface/lerobot
+
 
