@@ -8,6 +8,12 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 [ROS-RVIZ to visualise URDF](http://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Building-a-Visual-Robot-Model-with-URDF-from-Scratch.html)
 
+#### Open Arms
+
+https://github.com/TheRobotStudio/SO-ARM100
+
+https://github.com/jess-moss/moss-robot-arms
+
 ## Motion Plan Visualization
 
 [MoveIt](https://github.com/moveit/moveit2)（ [Is it necessary?](https://www.researchgate.net/post/Is_it_necessary_to_use_visualization_tools_for_the_motion_trajectory_planning_of_a_robotic_arm) ）
