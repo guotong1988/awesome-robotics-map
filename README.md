@@ -32,4 +32,6 @@ Arduino Esp32 [code](https://github.com/espressif/arduino-esp32) + [doc](https:/
 
 [huggingface/LeRobot](https://github.com/huggingface/lerobot), [koch-arm](https://github.com/jess-moss/koch-v1-1), [so-arm](https://github.com/TheRobotStudio/SO-ARM100), [moss-arm](https://github.com/jess-moss/moss-robot-arms)
 
+[unitree-robot](https://github.com/unitreerobotics)
+
 
