@@ -26,7 +26,7 @@ Arduino Esp32 [code](https://github.com/espressif/arduino-esp32) + [doc](https:/
 
 ## Reference Solutions
 
-[nvidia software](https://developer.nvidia.com/isaac)，[nvidia jetson hardware](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+[nvidia isaac software](https://developer.nvidia.com/isaac)，[nvidia jetson hardware](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 
 [zhiyuan-robot](https://github.com/AgibotTech)
 
