@@ -10,7 +10,9 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 ## Accurate Motion 
 
-[MoveIt Visualization](https://github.com/moveit/moveit2)（ [Is it necessary?](https://www.researchgate.net/post/Is_it_necessary_to_use_visualization_tools_for_the_motion_trajectory_planning_of_a_robotic_arm) ）
+The visual simulator can accelerate the process of accurately moving the robotic arm, simulate the motion trajectory, and eliminate the need for testing in a real environment every time.
+
+[MoveIt Visualization](https://github.com/moveit/moveit2)
 
 ## 3D Reconstruction
 
