@@ -22,7 +22,7 @@ mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https:
 
 ## Training and Simulation
 
-https://github.com/NVIDIA/Cosmos
+[NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos)
 
 ## Hardware
 
