@@ -1,6 +1,6 @@
 # A Robotics Resources Map
 
-## Drawing mechanical part
+## Mechanics
 
 SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solidworks.com/cadmodels)
 
@@ -12,7 +12,7 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 The visual simulator can accelerate the process of accurately moving the robotic arm, simulate the motion trajectory, and eliminate the need for testing in a real environment every time.
 
-[MoveIt Visualization](https://github.com/moveit/moveit2)
+[MoveIt Motion Planning](https://github.com/moveit/moveit2)
 
 ## 3D Reconstruction
 
