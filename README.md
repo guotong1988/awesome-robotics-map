@@ -8,7 +8,7 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 [ROS-RVIZ to visualise URDF](http://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/Building-a-Visual-Robot-Model-with-URDF-from-Scratch.html)
 
-## Accurate Motion 
+## Motion 
 
 The visual simulator can accelerate the process of accurately moving the robotic arm, simulate the motion trajectory, and eliminate the need for testing in a real environment every time.
 
