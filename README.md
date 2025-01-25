@@ -20,6 +20,10 @@ Monocular 3D Object Detection is the task to draw 3D bounding box around objects
 
 mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
 
+## 3D Generation
+
+[awesome list](https://github.com/justimyhxu/awesome-3D-generation)
+
 ## Training and Simulation
 
 [DeepMind/MuJoCo](https://github.com/google-deepmind/mujoco)
