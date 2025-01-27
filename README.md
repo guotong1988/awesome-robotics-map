@@ -12,7 +12,7 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 [MoveIt Motion Planning](https://github.com/moveit/moveit2)
 
-https://github.com/zhm-real/MotionPlanning
+[zhm-real/MotionPlanning](https://github.com/zhm-real/MotionPlanning)
 
 ## 3D Reconstruction
 
