@@ -18,6 +18,8 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 Monocular 3D Object Detection, mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
 
+[YOLO computer vision](https://github.com/ultralytics/ultralytics)
+
 ## 3D Generation
 
 [awesome list](https://github.com/justimyhxu/awesome-3D-generation)
