@@ -10,15 +10,13 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 ## Motion 
 
-The visual simulator can accelerate the process of accurately moving the robotic arm, simulate the motion trajectory, and eliminate the need for testing in a real environment every time.
-
 [MoveIt Motion Planning](https://github.com/moveit/moveit2)
+
+https://github.com/zhm-real/MotionPlanning
 
 ## 3D Reconstruction
 
-Monocular 3D Object Detection is the task to draw 3D bounding box around objects in a single 2D RGB image. It is localization task but without any extra information like depth or other sensors or multiple-images. 
-
-mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
+Monocular 3D Object Detection, mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
 
 ## 3D Generation
 
