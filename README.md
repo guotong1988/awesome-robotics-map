@@ -16,7 +16,7 @@ SolidWorks drawing [examples](https://grabcad.com/), [examples](https://my.solid
 
 ## 3D Reconstruction
 
-Monocular 3D Object Detection, mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
+mmdetection3d [code](https://github.com/open-mmlab/mmdetection3d) + [doc](https://mmdetection3d.readthedocs.io/en/latest/)
 
 [YOLO computer vision](https://github.com/ultralytics/ultralytics)
 
